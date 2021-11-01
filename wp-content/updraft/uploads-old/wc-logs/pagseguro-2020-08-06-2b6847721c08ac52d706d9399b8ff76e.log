@@ -1,0 +1,438 @@
+08-06-2020 @ 10:38:18 - Requesting session ID...
+08-06-2020 @ 10:38:19 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 78677a360bb546f9be1163825529113b
+)
+
+08-06-2020 @ 10:38:46 - Requesting session ID...
+08-06-2020 @ 10:38:47 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => ab453b6ca1ce4f7fa22c332344f97c29
+)
+
+08-06-2020 @ 10:46:32 - Requesting session ID...
+08-06-2020 @ 10:46:33 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => b0577e2c36554ca5984c4cd2bbe11813
+)
+
+08-06-2020 @ 10:48:50 - Requesting session ID...
+08-06-2020 @ 10:48:50 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 7999b9e993604f589c05fb4080ea2ba9
+)
+
+08-06-2020 @ 10:49:31 - Requesting session ID...
+08-06-2020 @ 10:49:32 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 851775bf019d427398a6077b3d67af7e
+)
+
+08-06-2020 @ 10:49:51 - Requesting session ID...
+08-06-2020 @ 10:49:52 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 4dffaa6e42494a64bca7aae6f9ea18a9
+)
+
+08-06-2020 @ 10:50:17 - Requesting session ID...
+08-06-2020 @ 10:50:18 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 692bc67ab6904b1ea9cc258105247938
+)
+
+08-06-2020 @ 10:50:18 - Requesting session ID...
+08-06-2020 @ 10:50:19 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 82511f62f4734d78a681b9725512fbaa
+)
+
+08-06-2020 @ 10:50:37 - Requesting session ID...
+08-06-2020 @ 10:50:38 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => ca714b34988e4118a5e45151661c80a5
+)
+
+08-06-2020 @ 10:50:44 - Requesting session ID...
+08-06-2020 @ 10:50:45 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => a975563d72c04fab801aa36c68046d33
+)
+
+08-06-2020 @ 10:50:54 - Requesting session ID...
+08-06-2020 @ 10:50:55 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => b0ab3250e2a840f7ad751902bc8beffa
+)
+
+08-06-2020 @ 10:51:05 - Requesting session ID...
+08-06-2020 @ 10:51:06 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 5223efe9bba245739f66403d05d53c90
+)
+
+08-06-2020 @ 10:54:15 - Requesting direct payment for order 125 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<payment>
+  <mode>default</mode>
+  <method>boleto</method>
+  <currency>BRL</currency>
+  <notificationURL><![CDATA[https://zaapery.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Pano]]></description>
+      <amount>5.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <reference><![CDATA[Zaapery-125]]></reference>
+  <sender>
+    <email><![CDATA[jv.oliveraraujo@gmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>13926095695</value>
+      </document>
+    </documents>
+    <name><![CDATA[Joao Vitor]]></name>
+    <phone>
+      <areaCode>35</areaCode>
+      <number>32672157</number>
+    </phone>
+    <hash>b019a77bf923bea8c60cdb0912b27d5ba161518326f0442b50465f4a90f6d541</hash>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[R jose camilo da Costa]]></street>
+      <number>412</number>
+      <district><![CDATA[Centro]]></district>
+      <postalCode>37120000</postalCode>
+      <city><![CDATA[Paraguaçu]]></city>
+      <state>MG</state>
+      <country>BRA</country>
+    </address>
+    <cost>27.70</cost>
+  </shipping>
+</payment>
+
+08-06-2020 @ 10:54:18 - PagSeguro direct payment created successfully!
+08-06-2020 @ 10:54:18 - PagSeguro payment status for order 125 is: 1
+08-06-2020 @ 10:54:20 - Checking IPN request...
+08-06-2020 @ 10:54:20 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2020-08-06T10:54:16.000-03:00
+    [code] => A7B6B10B-A129-403F-B785-FC7794F350DB
+    [reference] => Zaapery-125
+    [type] => 1
+    [status] => 1
+    [lastEventDate] => 2020-08-06T10:54:18.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 2
+            [code] => 202
+        )
+
+    [paymentLink] => https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=f6907986d75b881fe28d80bd971676cb0fdfbaefa2ff6206edcc29e77ecc43f3ea7bfaf1f9f38f39
+    [grossAmount] => 32.70
+    [discountAmount] => 0.00
+    [feeAmount] => 0.98
+    [netAmount] => 31.72
+    [extraAmount] => 0.00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => Pano
+                    [quantity] => 1
+                    [amount] => 5.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Joao Vitor
+            [email] => jv.oliveraraujo@gmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 35
+                    [number] => 32672157
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => R jose camilo da Costa
+                    [number] => 412
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Centro
+                    [city] => Paraguaçu
+                    [state] => MG
+                    [country] => BRA
+                    [postalCode] => 37120000
+                )
+
+            [type] => 3
+            [cost] => 27.70
+        )
+
+)
+
+08-06-2020 @ 10:54:20 - PagSeguro payment status for order 125 is: 1
+08-06-2020 @ 11:01:42 - Requesting session ID...
+08-06-2020 @ 11:01:43 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 22296d78bfd3450286908576d28d9f0a
+)
+
+08-06-2020 @ 11:02:17 - Requesting direct payment for order 126 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<payment>
+  <mode>default</mode>
+  <method>boleto</method>
+  <currency>BRL</currency>
+  <notificationURL><![CDATA[https://zaapery.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Pano]]></description>
+      <amount>5.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <reference><![CDATA[Zaapery-126]]></reference>
+  <sender>
+    <email><![CDATA[jv.oliveraraujo@gmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>13926095695</value>
+      </document>
+    </documents>
+    <name><![CDATA[Joao Vitor]]></name>
+    <phone>
+      <areaCode>35</areaCode>
+      <number>32672157</number>
+    </phone>
+    <hash>df435a9e2b1f7a292b2110282fc97d75cbecba743916cc5ca8adc96a7a0593e6</hash>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[R jose camilo da Costa]]></street>
+      <number>412</number>
+      <district><![CDATA[Centro]]></district>
+      <postalCode>37120000</postalCode>
+      <city><![CDATA[Paraguaçu]]></city>
+      <state>MG</state>
+      <country>BRA</country>
+    </address>
+    <cost>27.70</cost>
+  </shipping>
+</payment>
+
+08-06-2020 @ 11:02:19 - PagSeguro direct payment created successfully!
+08-06-2020 @ 11:02:19 - PagSeguro payment status for order 126 is: 1
+08-06-2020 @ 11:02:21 - Checking IPN request...
+08-06-2020 @ 11:02:22 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2020-08-06T11:02:18.000-03:00
+    [code] => 565933EE-A7CD-43D3-9B0C-8924BE055AB5
+    [reference] => Zaapery-126
+    [type] => 1
+    [status] => 1
+    [lastEventDate] => 2020-08-06T11:02:19.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 2
+            [code] => 202
+        )
+
+    [paymentLink] => https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=92c84eaf7e476803262cadd906c11352c75e3fff37231f58296cb0afead1eaf4b4f926fafa487541
+    [grossAmount] => 32.70
+    [discountAmount] => 0.00
+    [feeAmount] => 0.98
+    [netAmount] => 31.72
+    [extraAmount] => 0.00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => Pano
+                    [quantity] => 1
+                    [amount] => 5.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Joao Vitor
+            [email] => jv.oliveraraujo@gmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 35
+                    [number] => 32672157
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => R jose camilo da Costa
+                    [number] => 412
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Centro
+                    [city] => Paraguaçu
+                    [state] => MG
+                    [country] => BRA
+                    [postalCode] => 37120000
+                )
+
+            [type] => 3
+            [cost] => 27.70
+        )
+
+)
+
+08-06-2020 @ 11:02:22 - PagSeguro payment status for order 126 is: 1
+08-06-2020 @ 11:03:19 - Requesting session ID...
+08-06-2020 @ 11:03:20 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => e173d63012b94b6793c398717429d9c3
+)
+
+08-06-2020 @ 11:03:53 - Requesting direct payment for order 127 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<payment>
+  <mode>default</mode>
+  <method>boleto</method>
+  <currency>BRL</currency>
+  <notificationURL><![CDATA[https://zaapery.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Pano]]></description>
+      <amount>5.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <reference><![CDATA[Zaapery-127]]></reference>
+  <sender>
+    <email><![CDATA[jv.oliveraraujo@gmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>13926095695</value>
+      </document>
+    </documents>
+    <name><![CDATA[Joao Vitor]]></name>
+    <phone>
+      <areaCode>35</areaCode>
+      <number>32672157</number>
+    </phone>
+    <hash>1da62eb2b62e91ca46f89a50efef18e38666673103598eb0474a0a48f4c6ee86</hash>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[R jose camilo da Costa]]></street>
+      <number>412</number>
+      <district><![CDATA[Centro]]></district>
+      <postalCode>37120000</postalCode>
+      <city><![CDATA[Paraguaçu]]></city>
+      <state>MG</state>
+      <country>BRA</country>
+    </address>
+    <cost>27.70</cost>
+  </shipping>
+</payment>
+
+08-06-2020 @ 11:03:56 - PagSeguro direct payment created successfully!
+08-06-2020 @ 11:03:56 - PagSeguro payment status for order 127 is: 1
+08-06-2020 @ 11:03:57 - Checking IPN request...
+08-06-2020 @ 11:03:58 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2020-08-06T11:03:54.000-03:00
+    [code] => 089B9C4F-5C1C-4AD1-B5A7-9AEDE06554E1
+    [reference] => Zaapery-127
+    [type] => 1
+    [status] => 1
+    [lastEventDate] => 2020-08-06T11:03:56.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 2
+            [code] => 202
+        )
+
+    [paymentLink] => https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=a472f8a2a378be7ded5e369d369585cdbb873aa838a518f76bce7480eb1ae2b6fecf5830e2d0a017
+    [grossAmount] => 32.70
+    [discountAmount] => 0.00
+    [feeAmount] => 0.98
+    [netAmount] => 31.72
+    [extraAmount] => 0.00
+    [installmentCount] => 1
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => Pano
+                    [quantity] => 1
+                    [amount] => 5.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Joao Vitor
+            [email] => jv.oliveraraujo@gmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 35
+                    [number] => 32672157
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => R jose camilo da Costa
+                    [number] => 412
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Centro
+                    [city] => Paraguaçu
+                    [state] => MG
+                    [country] => BRA
+                    [postalCode] => 37120000
+                )
+
+            [type] => 3
+            [cost] => 27.70
+        )
+
+)
+
+08-06-2020 @ 11:03:58 - PagSeguro payment status for order 127 is: 1

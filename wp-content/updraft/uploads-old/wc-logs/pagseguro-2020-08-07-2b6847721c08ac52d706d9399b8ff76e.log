@@ -1,0 +1,432 @@
+08-07-2020 @ 10:40:53 - Requesting session ID...
+08-07-2020 @ 10:40:55 - PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 7b7115e6396e4f2e9fe012579cc90b60
+)
+
+08-07-2020 @ 10:42:46 - Requesting direct payment for order 136 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<payment>
+  <mode>default</mode>
+  <method>creditCard</method>
+  <currency>BRL</currency>
+  <notificationURL><![CDATA[https://zaapery.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Pano]]></description>
+      <amount>5.00</amount>
+      <quantity>4</quantity>
+    </item>
+    <item>
+      <id>2</id>
+      <description><![CDATA[Toalha]]></description>
+      <amount>30.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <reference><![CDATA[Zaapery-136]]></reference>
+  <sender>
+    <email><![CDATA[projetos@byronsolutions.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>02100072650</value>
+      </document>
+    </documents>
+    <name><![CDATA[Matheus Lima]]></name>
+    <phone>
+      <areaCode>35</areaCode>
+      <number>99875278</number>
+    </phone>
+    <hash>8620d7a3479bf016ca057f2edb1e439ea583bc529040a1cbd3f7fe73378ccd8f</hash>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Tiradentes]]></street>
+      <number>97</number>
+      <district><![CDATA[Nossa Senhora Apr]]></district>
+      <postalCode>37564000</postalCode>
+      <city><![CDATA[Borda da Mata]]></city>
+      <state>MG</state>
+      <country>BRA</country>
+    </address>
+    <cost>32.79</cost>
+  </shipping>
+  <creditCard>
+    <token>f7c99b23d0f64025a2236929644c33d6</token>
+    <installment>
+      <quantity>3</quantity>
+      <value>29.26</value>
+    </installment>
+    <holder>
+      <name><![CDATA[Matheus Lima]]></name>
+      <documents>
+        <document>
+          <type>CPF</type>
+          <value>02100072650</value>
+        </document>
+      </documents>
+      <birthDate>19/06/2002</birthDate>
+      <phone>
+        <areaCode>35</areaCode>
+        <number>998775278</number>
+      </phone>
+    </holder>
+    <billingAddress>
+      <street><![CDATA[Rua Tiradentes]]></street>
+      <number>97</number>
+      <district><![CDATA[Nossa Senhora Apr]]></district>
+      <city><![CDATA[Borda da Mata]]></city>
+      <state>MG</state>
+      <country>BRA</country>
+      <postalCode>37564000</postalCode>
+    </billingAddress>
+  </creditCard>
+</payment>
+
+08-07-2020 @ 10:42:48 - An error occurred while generating the PagSeguro direct payment: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => application/xml;charset=ISO-8859-1
+                    [content-length] => 234
+                    [date] => Fri, 07 Aug 2020 13:42:48 GMT
+                    [cache-control] => max-age=180
+                    [expires] => Fri, 07 Aug 2020 13:45:47 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 9c406bc1dfbf2975a1bbfa0fc9a1b178.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => jePoX4_eP2O_XTY27ypC8-xe70LhBA92r0oSLFWR7R6AgKQiPzyaxA==
+                )
+
+        )
+
+    [body] => <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53122</code><message>sender email invalid domain: projetos@byronsolutions.com. You must use an email @sandbox.pagseguro.com.br</message></error></errors>
+    [response] => Array
+        (
+            [code] => 400
+            [message] => Bad Request
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53122</code><message>sender email invalid domain: projetos@byronsolutions.com. You must use an email @sandbox.pagseguro.com.br</message></error></errors>
+                    [raw] => HTTP/1.1 400 Bad Request
+Content-Type: application/xml;charset=ISO-8859-1
+Content-Length: 234
+Connection: close
+Date: Fri, 07 Aug 2020 13:42:48 GMT
+Cache-Control: max-age=180
+Expires: Fri, 07 Aug 2020 13:45:47 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 9c406bc1dfbf2975a1bbfa0fc9a1b178.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: jePoX4_eP2O_XTY27ypC8-xe70LhBA92r0oSLFWR7R6AgKQiPzyaxA==
+
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53122</code><message>sender email invalid domain: projetos@byronsolutions.com. You must use an email @sandbox.pagseguro.com.br</message></error></errors>
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/xml;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 234
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 07 Aug 2020 13:42:48 GMT
+                                        )
+
+                                    [cache-control] => Array
+                                        (
+                                            [0] => max-age=180
+                                        )
+
+                                    [expires] => Array
+                                        (
+                                            [0] => Fri, 07 Aug 2020 13:45:47 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 9c406bc1dfbf2975a1bbfa0fc9a1b178.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => jePoX4_eP2O_XTY27ypC8-xe70LhBA92r0oSLFWR7R6AgKQiPzyaxA==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 400
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-07-2020 @ 10:43:17 - Requesting direct payment for order 136 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<payment>
+  <mode>default</mode>
+  <method>creditCard</method>
+  <currency>BRL</currency>
+  <notificationURL><![CDATA[https://zaapery.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Pano]]></description>
+      <amount>5.00</amount>
+      <quantity>4</quantity>
+    </item>
+    <item>
+      <id>2</id>
+      <description><![CDATA[Toalha]]></description>
+      <amount>30.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <reference><![CDATA[Zaapery-136]]></reference>
+  <sender>
+    <email><![CDATA[c22123016507182596452@sandbox.pagseguro.com.br]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>02100072650</value>
+      </document>
+    </documents>
+    <name><![CDATA[Matheus Lima]]></name>
+    <phone>
+      <areaCode>35</areaCode>
+      <number>99875278</number>
+    </phone>
+    <hash>8620d7a3479bf016ca057f2edb1e439ea583bc529040a1cbd3f7fe73378ccd8f</hash>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Tiradentes]]></street>
+      <number>97</number>
+      <district><![CDATA[Nossa Senhora Apr]]></district>
+      <postalCode>37564000</postalCode>
+      <city><![CDATA[Borda da Mata]]></city>
+      <state>MG</state>
+      <country>BRA</country>
+    </address>
+    <cost>32.79</cost>
+  </shipping>
+  <creditCard>
+    <token>62572a674cc4419e8fab807e1fa6b30e</token>
+    <installment>
+      <quantity>2</quantity>
+      <value>43.26</value>
+    </installment>
+    <holder>
+      <name><![CDATA[Matheus Lima]]></name>
+      <documents>
+        <document>
+          <type>CPF</type>
+          <value>02100072650</value>
+        </document>
+      </documents>
+      <birthDate>19/06/2002</birthDate>
+      <phone>
+        <areaCode>35</areaCode>
+        <number>998775278</number>
+      </phone>
+    </holder>
+    <billingAddress>
+      <street><![CDATA[Rua Tiradentes]]></street>
+      <number>97</number>
+      <district><![CDATA[Nossa Senhora Apr]]></district>
+      <city><![CDATA[Borda da Mata]]></city>
+      <state>MG</state>
+      <country>BRA</country>
+      <postalCode>37564000</postalCode>
+    </billingAddress>
+  </creditCard>
+</payment>
+
+08-07-2020 @ 10:43:20 - PagSeguro direct payment created successfully!
+08-07-2020 @ 10:43:20 - PagSeguro payment status for order 136 is: 1
+08-07-2020 @ 10:45:00 - Checking IPN request...
+08-07-2020 @ 10:45:01 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2020-08-07T10:43:18.000-03:00
+    [code] => 8DBECAA4-A997-44A6-AE43-247E3336F3DB
+    [reference] => Zaapery-136
+    [type] => 1
+    [status] => 3
+    [lastEventDate] => 2020-08-07T10:44:58.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 82.79
+    [discountAmount] => 0.00
+    [feeAmount] => 4.53
+    [netAmount] => 78.26
+    [extraAmount] => 0.00
+    [escrowEndDate] => 2020-08-21T10:44:58.000-03:00
+    [installmentCount] => 2
+    [itemCount] => 2
+    [items] => SimpleXMLElement Object
+        (
+            [item] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                            [id] => 1
+                            [description] => Pano
+                            [quantity] => 4
+                            [amount] => 5.00
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                            [id] => 2
+                            [description] => Toalha
+                            [quantity] => 1
+                            [amount] => 30.00
+                        )
+
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Matheus Lima
+            [email] => c22123016507182596452@sandbox.pagseguro.com.br
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 35
+                    [number] => 99875278
+                )
+
+            [documents] => SimpleXMLElement Object
+                (
+                    [document] => SimpleXMLElement Object
+                        (
+                            [type] => CPF
+                            [value] => 02100072650
+                        )
+
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Rua Tiradentes
+                    [number] => 97
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Nossa Senhora Apr
+                    [city] => Borda da Mata
+                    [state] => MG
+                    [country] => BRA
+                    [postalCode] => 37564000
+                )
+
+            [type] => 3
+            [cost] => 32.79
+        )
+
+    [gatewaySystem] => SimpleXMLElement Object
+        (
+            [type] => cielo
+            [rawCode] => SimpleXMLElement Object
+                (
+                )
+
+            [rawMessage] => SimpleXMLElement Object
+                (
+                )
+
+            [normalizedCode] => SimpleXMLElement Object
+                (
+                )
+
+            [normalizedMessage] => SimpleXMLElement Object
+                (
+                )
+
+            [authorizationCode] => 0
+            [nsu] => 0
+            [tid] => 0
+            [establishmentCode] => 1056784170
+            [acquirerName] => CIELO
+        )
+
+)
+
+08-07-2020 @ 10:45:01 - PagSeguro payment status for order 136 is: 3

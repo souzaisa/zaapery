@@ -1,0 +1,2340 @@
+08-21-2020 @ 07:49:30 - Checking IPN request...
+08-21-2020 @ 07:49:32 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 10:49:32 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 503c3407b95d39a01115cb7f993d304c.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => Nh2GPsbxsZ75wtupQdmfcAPcdg1MT2Q1U2xO_A6OwWuM9C9NB_3n9A==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 10:49:32 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 503c3407b95d39a01115cb7f993d304c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: Nh2GPsbxsZ75wtupQdmfcAPcdg1MT2Q1U2xO_A6OwWuM9C9NB_3n9A==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 10:49:32 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 503c3407b95d39a01115cb7f993d304c.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => Nh2GPsbxsZ75wtupQdmfcAPcdg1MT2Q1U2xO_A6OwWuM9C9NB_3n9A==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/3CA957-08AC0DAC0DC0-CEE422EFA52A-744DB0?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 07:50:01 - Checking IPN request...
+08-21-2020 @ 07:50:02 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 10:50:02 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 64e24cad8b52037c4c824ec57b5995bf.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => anrl6o9PdJOkGoa-KoGnaH1q-O2G-0IZZRqIuBkBLZtfJyIWeV9ftg==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 10:50:02 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 64e24cad8b52037c4c824ec57b5995bf.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: anrl6o9PdJOkGoa-KoGnaH1q-O2G-0IZZRqIuBkBLZtfJyIWeV9ftg==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 10:50:02 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 64e24cad8b52037c4c824ec57b5995bf.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => anrl6o9PdJOkGoa-KoGnaH1q-O2G-0IZZRqIuBkBLZtfJyIWeV9ftg==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/B60942-6B7EC57EC581-88847A7F9DDC-47B6BF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 07:50:05 - Checking IPN request...
+08-21-2020 @ 07:50:06 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 10:50:06 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 ac3f5ff5f29f102b8bc81b41df4c002e.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => AsM0h75NwX9o5Bptdu8CVgiFQD6YJMz5K70W_VEXfnf6fJ60Cm84gw==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 10:50:06 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 ac3f5ff5f29f102b8bc81b41df4c002e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: AsM0h75NwX9o5Bptdu8CVgiFQD6YJMz5K70W_VEXfnf6fJ60Cm84gw==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 10:50:06 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 ac3f5ff5f29f102b8bc81b41df4c002e.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => AsM0h75NwX9o5Bptdu8CVgiFQD6YJMz5K70W_VEXfnf6fJ60Cm84gw==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/CDC266-CCF02EF02E1B-A004C93F97BA-0E5AEF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 10:15:34 - Checking IPN request...
+08-21-2020 @ 10:15:34 - Checking IPN request...
+08-21-2020 @ 10:15:35 - Checking IPN request...
+08-21-2020 @ 10:15:36 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 13:15:36 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 04e21fcab9c40f810adb3684797ad256.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => wnkeon7_5yNiBOonIFUafJyvu0Lh4vlpNfNA66E1nVX26Foi_f420g==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 13:15:36 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 04e21fcab9c40f810adb3684797ad256.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: wnkeon7_5yNiBOonIFUafJyvu0Lh4vlpNfNA66E1nVX26Foi_f420g==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 13:15:36 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 04e21fcab9c40f810adb3684797ad256.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => wnkeon7_5yNiBOonIFUafJyvu0Lh4vlpNfNA66E1nVX26Foi_f420g==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/3CA957-08AC0DAC0DC0-CEE422EFA52A-744DB0?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 10:15:36 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 13:15:36 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 9c406bc1dfbf2975a1bbfa0fc9a1b178.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => xEu2o1fO3L8HDcasvsr4Rp81HmWS0_mSiaLSli6mFqEj3Xrw7akqFA==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 13:15:36 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 9c406bc1dfbf2975a1bbfa0fc9a1b178.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: xEu2o1fO3L8HDcasvsr4Rp81HmWS0_mSiaLSli6mFqEj3Xrw7akqFA==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 13:15:36 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 9c406bc1dfbf2975a1bbfa0fc9a1b178.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => xEu2o1fO3L8HDcasvsr4Rp81HmWS0_mSiaLSli6mFqEj3Xrw7akqFA==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/CDC266-CCF02EF02E1B-A004C93F97BA-0E5AEF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 10:15:36 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 13:15:36 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 aa47e133b5e3393ab9d8eaccdae91eb2.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => rm4PrnYtR3Oj0cQzGpQou2SOFQp8Q_eozUJn9yLiG69JsTetltaoPA==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 13:15:36 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 aa47e133b5e3393ab9d8eaccdae91eb2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: rm4PrnYtR3Oj0cQzGpQou2SOFQp8Q_eozUJn9yLiG69JsTetltaoPA==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 13:15:36 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 aa47e133b5e3393ab9d8eaccdae91eb2.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => rm4PrnYtR3Oj0cQzGpQou2SOFQp8Q_eozUJn9yLiG69JsTetltaoPA==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/B60942-6B7EC57EC581-88847A7F9DDC-47B6BF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 12:16:38 - Checking IPN request...
+08-21-2020 @ 12:16:38 - Checking IPN request...
+08-21-2020 @ 12:16:39 - Checking IPN request...
+08-21-2020 @ 12:16:39 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 15:16:39 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 9cbcfdda6d6272e0974004cceb62f5ec.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => fZuZO1cY0WEIgdwD8llfPeswlrwaOgVmrl26BccoEHSMCSGKBwJiMg==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 15:16:39 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 9cbcfdda6d6272e0974004cceb62f5ec.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: fZuZO1cY0WEIgdwD8llfPeswlrwaOgVmrl26BccoEHSMCSGKBwJiMg==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 15:16:39 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 9cbcfdda6d6272e0974004cceb62f5ec.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => fZuZO1cY0WEIgdwD8llfPeswlrwaOgVmrl26BccoEHSMCSGKBwJiMg==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/3CA957-08AC0DAC0DC0-CEE422EFA52A-744DB0?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 12:16:39 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 15:16:39 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 b4abcb98ce93ad022f873fb0894216a5.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => nyHD7eCuEFu81x_tAO4iKdTyAbcwHyiJGCPuqFU7PXulsSo2T8l9QA==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 15:16:39 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 b4abcb98ce93ad022f873fb0894216a5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: nyHD7eCuEFu81x_tAO4iKdTyAbcwHyiJGCPuqFU7PXulsSo2T8l9QA==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 15:16:39 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 b4abcb98ce93ad022f873fb0894216a5.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => nyHD7eCuEFu81x_tAO4iKdTyAbcwHyiJGCPuqFU7PXulsSo2T8l9QA==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/CDC266-CCF02EF02E1B-A004C93F97BA-0E5AEF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 12:16:40 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 15:16:40 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 97f1839b599ae9accd75832f3d3b190a.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => euvkJZul-ozzXK17ZMhmT7AkcsgBpX0-Bzr6leNroayfn2As6LGPCA==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 15:16:40 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 97f1839b599ae9accd75832f3d3b190a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: euvkJZul-ozzXK17ZMhmT7AkcsgBpX0-Bzr6leNroayfn2As6LGPCA==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 15:16:40 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 97f1839b599ae9accd75832f3d3b190a.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => euvkJZul-ozzXK17ZMhmT7AkcsgBpX0-Bzr6leNroayfn2As6LGPCA==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/B60942-6B7EC57EC581-88847A7F9DDC-47B6BF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 14:31:34 - Checking IPN request...
+08-21-2020 @ 14:31:35 - Checking IPN request...
+08-21-2020 @ 14:31:35 - Checking IPN request...
+08-21-2020 @ 14:31:36 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 17:31:36 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 c6006b6af8ac27f9d99ed79409b1925f.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => Z35vNwjvRhuZlwQAiTrDhsgVaEhoPOtGJ9CSwOz3M2MYlR8P7oSCDA==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 17:31:36 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 c6006b6af8ac27f9d99ed79409b1925f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: Z35vNwjvRhuZlwQAiTrDhsgVaEhoPOtGJ9CSwOz3M2MYlR8P7oSCDA==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 17:31:36 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 c6006b6af8ac27f9d99ed79409b1925f.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => Z35vNwjvRhuZlwQAiTrDhsgVaEhoPOtGJ9CSwOz3M2MYlR8P7oSCDA==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/CDC266-CCF02EF02E1B-A004C93F97BA-0E5AEF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 14:31:36 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 17:31:36 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 524b1c81c238e5098303bf1ee05a952f.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => N2aYXwnpwfqh1HZzkU8XzxJbZD74nxwpJzgz_U7pI2EplJanxhdJOQ==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 17:31:36 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 524b1c81c238e5098303bf1ee05a952f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: N2aYXwnpwfqh1HZzkU8XzxJbZD74nxwpJzgz_U7pI2EplJanxhdJOQ==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 17:31:36 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 524b1c81c238e5098303bf1ee05a952f.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => N2aYXwnpwfqh1HZzkU8XzxJbZD74nxwpJzgz_U7pI2EplJanxhdJOQ==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/3CA957-08AC0DAC0DC0-CEE422EFA52A-744DB0?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 14:31:36 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 17:31:36 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 64e24cad8b52037c4c824ec57b5995bf.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => q6jZxOLQVws9RnnAe8uMVCFgoDU4jBas_uksYKOuu8I9OgOLu5q23w==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 17:31:36 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 64e24cad8b52037c4c824ec57b5995bf.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: q6jZxOLQVws9RnnAe8uMVCFgoDU4jBas_uksYKOuu8I9OgOLu5q23w==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 17:31:36 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 64e24cad8b52037c4c824ec57b5995bf.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => q6jZxOLQVws9RnnAe8uMVCFgoDU4jBas_uksYKOuu8I9OgOLu5q23w==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/B60942-6B7EC57EC581-88847A7F9DDC-47B6BF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 16:32:31 - Checking IPN request...
+08-21-2020 @ 16:32:32 - Checking IPN request...
+08-21-2020 @ 16:32:32 - Checking IPN request...
+08-21-2020 @ 16:32:32 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 19:32:32 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 1a6eb5e1dd6efbd323fd6d7c523cd1f3.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => SFO5-C1
+                    [x-amz-cf-id] => NCoPvtiZsy7XFRjr4akyT7X6FFo7tDIOweRdddTOx2QStGHxO0fTbg==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 19:32:32 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 1a6eb5e1dd6efbd323fd6d7c523cd1f3.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO5-C1
+X-Amz-Cf-Id: NCoPvtiZsy7XFRjr4akyT7X6FFo7tDIOweRdddTOx2QStGHxO0fTbg==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 19:32:32 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 1a6eb5e1dd6efbd323fd6d7c523cd1f3.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => SFO5-C1
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => NCoPvtiZsy7XFRjr4akyT7X6FFo7tDIOweRdddTOx2QStGHxO0fTbg==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/CDC266-CCF02EF02E1B-A004C93F97BA-0E5AEF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 16:32:33 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 19:32:32 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 d7e60d51bdc317b59cd67d07343bbaef.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => SFO5-C1
+                    [x-amz-cf-id] => XoGWdS5_TeMiQYjDS6HvHBGG-d2U1HEbt42s8EYCGcYIjhMuElgR1A==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 19:32:32 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 d7e60d51bdc317b59cd67d07343bbaef.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO5-C1
+X-Amz-Cf-Id: XoGWdS5_TeMiQYjDS6HvHBGG-d2U1HEbt42s8EYCGcYIjhMuElgR1A==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 19:32:32 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 d7e60d51bdc317b59cd67d07343bbaef.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => SFO5-C1
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => XoGWdS5_TeMiQYjDS6HvHBGG-d2U1HEbt42s8EYCGcYIjhMuElgR1A==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/3CA957-08AC0DAC0DC0-CEE422EFA52A-744DB0?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 16:32:33 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 19:32:32 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 4d573cd6a6c0581b92beae04909c3dce.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => SFO5-C1
+                    [x-amz-cf-id] => Eer0BZFvYbdix4Te8NWrhJDsbaT8MH5W7G49IRPumrRmutXjH_R8GQ==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 19:32:32 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 4d573cd6a6c0581b92beae04909c3dce.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO5-C1
+X-Amz-Cf-Id: Eer0BZFvYbdix4Te8NWrhJDsbaT8MH5W7G49IRPumrRmutXjH_R8GQ==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 19:32:32 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 4d573cd6a6c0581b92beae04909c3dce.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => SFO5-C1
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => Eer0BZFvYbdix4Te8NWrhJDsbaT8MH5W7G49IRPumrRmutXjH_R8GQ==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/B60942-6B7EC57EC581-88847A7F9DDC-47B6BF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 18:33:14 - Checking IPN request...
+08-21-2020 @ 18:33:15 - Checking IPN request...
+08-21-2020 @ 18:33:15 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 21:33:15 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 729c4e7c4cd7b8db3eb54526a1cac5f3.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => IAH50-C4
+                    [x-amz-cf-id] => ODQpmv-SmxEAySoSBGJxcALDTQ_gfO531bPav-gmLQ38wr1qKbLw_Q==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 21:33:15 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 729c4e7c4cd7b8db3eb54526a1cac5f3.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAH50-C4
+X-Amz-Cf-Id: ODQpmv-SmxEAySoSBGJxcALDTQ_gfO531bPav-gmLQ38wr1qKbLw_Q==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 21:33:15 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 729c4e7c4cd7b8db3eb54526a1cac5f3.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => IAH50-C4
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => ODQpmv-SmxEAySoSBGJxcALDTQ_gfO531bPav-gmLQ38wr1qKbLw_Q==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/3CA957-08AC0DAC0DC0-CEE422EFA52A-744DB0?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 18:33:16 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 21:33:16 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 625b0b323d7cd2536268f9910a7190b5.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => IAH50-C4
+                    [x-amz-cf-id] => gi2lxWplwZ41vNNcx6KEYmc00IgF3D9o-ive2iSxLztNgPocdUfz2w==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 21:33:16 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 625b0b323d7cd2536268f9910a7190b5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAH50-C4
+X-Amz-Cf-Id: gi2lxWplwZ41vNNcx6KEYmc00IgF3D9o-ive2iSxLztNgPocdUfz2w==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 21:33:16 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 625b0b323d7cd2536268f9910a7190b5.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => IAH50-C4
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => gi2lxWplwZ41vNNcx6KEYmc00IgF3D9o-ive2iSxLztNgPocdUfz2w==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/CDC266-CCF02EF02E1B-A004C93F97BA-0E5AEF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+
+08-21-2020 @ 20:28:27 - Checking IPN request...
+08-21-2020 @ 20:28:29 - IPN Response: Array
+(
+    [headers] => Requests_Utility_CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [content-type] => text/plain;charset=ISO-8859-1
+                    [content-length] => 9
+                    [date] => Fri, 21 Aug 2020 23:28:29 GMT
+                    [server] => Apache-Coyote/1.1
+                    [vary] => Accept-Encoding,User-Agent
+                    [x-cache] => Error from cloudfront
+                    [via] => 1.1 021d98b977d5fc500c4f621e0c75de83.cloudfront.net (CloudFront)
+                    [x-amz-cf-pop] => LAX50-C3
+                    [x-amz-cf-id] => qmRbKZKPggIk09u2H6E_2-7bb8sSTM-oF9-RiwpjRIMJ-rDwDZev6A==
+                )
+
+        )
+
+    [body] => Not Found
+    [response] => Array
+        (
+            [code] => 404
+            [message] => Not Found
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [response:protected] => Requests_Response Object
+                (
+                    [body] => Not Found
+                    [raw] => HTTP/1.1 404 Not Found
+Content-Type: text/plain;charset=ISO-8859-1
+Content-Length: 9
+Connection: close
+Date: Fri, 21 Aug 2020 23:28:29 GMT
+Server: Apache-Coyote/1.1
+Vary: Accept-Encoding,User-Agent
+X-Cache: Error from cloudfront
+Via: 1.1 021d98b977d5fc500c4f621e0c75de83.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX50-C3
+X-Amz-Cf-Id: qmRbKZKPggIk09u2H6E_2-7bb8sSTM-oF9-RiwpjRIMJ-rDwDZev6A==
+
+Not Found
+                    [headers] => Requests_Response_Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [content-type] => Array
+                                        (
+                                            [0] => text/plain;charset=ISO-8859-1
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 9
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 21 Aug 2020 23:28:29 GMT
+                                        )
+
+                                    [server] => Array
+                                        (
+                                            [0] => Apache-Coyote/1.1
+                                        )
+
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding,User-Agent
+                                        )
+
+                                    [x-cache] => Array
+                                        (
+                                            [0] => Error from cloudfront
+                                        )
+
+                                    [via] => Array
+                                        (
+                                            [0] => 1.1 021d98b977d5fc500c4f621e0c75de83.cloudfront.net (CloudFront)
+                                        )
+
+                                    [x-amz-cf-pop] => Array
+                                        (
+                                            [0] => LAX50-C3
+                                        )
+
+                                    [x-amz-cf-id] => Array
+                                        (
+                                            [0] => qmRbKZKPggIk09u2H6E_2-7bb8sSTM-oF9-RiwpjRIMJ-rDwDZev6A==
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 404
+                    [protocol_version] => 1.1
+                    [success] => 
+                    [redirects] => 0
+                    [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/notifications/B60942-6B7EC57EC581-88847A7F9DDC-47B6BF?email=contatozaapery@gmail.com&token=A1139A8D72E147D3BF94796ECE4B292F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => Requests_Cookie_Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+            [data] => 
+            [headers] => 
+            [status] => 
+        )
+
+)
+

@@ -1,0 +1,210 @@
+0000.118 (0) Opened log file at time: Mon, 01 Nov 2021 13:19:38 +0000 on http://localhost/zaapery
+0000.186 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.7.3 PHP: 7.1.4 (apache2handler, Windows NT DESKTOP-3F8K9FO 10.0 build 19041 (Windows 10) i586) MySQL: 10.1.22-MariaDB WPLANG: pt_BR Server: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/7.1.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 67.9M | 70M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.192 (0) Free space on disk containing Updraft's temporary directory: 124944 MB
+0002.755 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0002.759 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0003.028 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1634581470, seconds_ago=1191311)
+0003.119 (0) Set semaphore last lock (fd) time to 2021-11-01 13:19:41
+0003.120 (0) Semaphore lock (fd) complete
+0003.125 (0) Backup run: resumption=0, nonce=d6254748c7b4, file_nonce=d6254748c7b4 begun at=1635772778 (3s ago), job type=backup
+0003.128 (0) Scheduling a resumption (1) after 300 seconds (1635773081) in case this run gets aborted
+0003.638 (0) Checking if we have a zip executable available
+0003.646 (0) Creation of backups of directories: beginning
+0003.673 (0) No backup of plugins: excluded by user's options
+0003.686 (0) No backup of themes: excluded by user's options
+0003.692 (0) No backup of uploads: excluded by user's options
+0003.705 (0) No backup of others: excluded by user's options
+0003.715 (0) Saving backup status to database (elements: 0)
+0003.729 (0) Beginning creation of database dump (WordPress DB)
+0005.939 (0) Table wp_options: Total expected rows (approximate): 556
+0006.130 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 552 in 0.19 seconds
+0006.132 (0) Table wp_options: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_options.table.gz - 431.5 KB)
+0006.148 (0) Table wp_users: Total expected rows (approximate): 7
+0006.290 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 7 in 0.14 seconds
+0006.293 (0) Table wp_users: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_users.table.gz - 1 KB)
+0006.312 (0) Table wp_usermeta: Total expected rows (approximate): 213
+0006.328 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 213 in 0.01 seconds
+0006.409 (0) Table wp_usermeta: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_usermeta.table.gz - 4.6 KB)
+0006.444 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 0
+0006.461 (0) Table wp_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0006.464 (0) Table wp_actionscheduler_actions: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_actionscheduler_actions.table.gz - 0.5 KB)
+0006.479 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0006.511 (0) Table wp_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.03 seconds
+0006.514 (0) Table wp_actionscheduler_claims: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_actionscheduler_claims.table.gz - 0.3 KB)
+0006.617 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 3
+0006.640 (0) Table wp_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 3 in 0.02 seconds
+0006.643 (0) Table wp_actionscheduler_groups: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0006.746 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 0
+0006.757 (0) Table wp_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0006.760 (0) Table wp_actionscheduler_logs: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_actionscheduler_logs.table.gz - 0.4 KB)
+0006.941 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0006.952 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0006.954 (0) Table wp_commentmeta: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0007.054 (0) Table wp_comments: Total expected rows (approximate): 9
+0007.075 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 9 in 0.02 seconds
+0007.079 (0) Table wp_comments: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_comments.table.gz - 1.1 KB)
+0007.191 (0) Table wp_links: Total expected rows (approximate): 0
+0007.201 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0007.204 (0) Table wp_links: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_links.table.gz - 0.4 KB)
+0007.226 (0) Table wp_postmeta: Total expected rows (approximate): 1473
+0007.352 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 1473 in 0.12 seconds
+0007.355 (0) Table wp_postmeta: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_postmeta.table.gz - 33.6 KB)
+0007.377 (0) Table wp_posts: Total expected rows (approximate): 149
+0007.409 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 149 in 0.03 seconds
+0007.413 (0) Table wp_posts: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_posts.table.gz - 13.7 KB)
+0007.463 (0) Table wp_term_relationships: Total expected rows (approximate): 38
+0007.481 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 38 in 0.02 seconds
+0007.484 (0) Table wp_term_relationships: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0007.505 (0) Table wp_term_taxonomy: Total expected rows (approximate): 28
+0007.525 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 28 in 0.01 seconds
+0007.527 (0) Table wp_term_taxonomy: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0007.546 (0) Table wp_termmeta: Total expected rows (approximate): 16
+0007.557 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 16 in 0.01 seconds
+0007.560 (0) Table wp_termmeta: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_termmeta.table.gz - 0.5 KB)
+0007.585 (0) Table wp_terms: Total expected rows (approximate): 28
+0007.624 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 28 in 0.04 seconds
+0007.626 (0) Table wp_terms: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_terms.table.gz - 0.7 KB)
+0007.707 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 8
+0007.721 (0) Table wp_wc_category_lookup: Rows added in this batch (start page: 0; next: finished): 8 in 0.01 seconds
+0007.724 (0) Table wp_wc_category_lookup: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_category_lookup.table.gz - 0.4 KB)
+0007.807 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 5
+0007.820 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (start page: 0; next: finished): 5 in 0.01 seconds
+0007.823 (0) Table wp_wc_product_meta_lookup: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_product_meta_lookup.table.gz - 0.6 KB)
+0007.895 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0007.909 (0) Table wp_wc_reserved_stock: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0007.912 (0) Table wp_wc_reserved_stock: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_reserved_stock.table.gz - 0.3 KB)
+0008.034 (0) Table wp_wc_tax_rate_classes: Total expected rows (approximate): 2
+0008.055 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (start page: 0; next: finished): 2 in 0.02 seconds
+0008.058 (0) Table wp_wc_tax_rate_classes: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_tax_rate_classes.table.gz - 0.4 KB)
+0008.184 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 82
+0008.196 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (start page: 0; next: finished): 82 in 0.01 seconds
+0008.201 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_order_itemmeta.table.gz - 1 KB)
+0008.236 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0008.246 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0008.248 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0008.435 (0) Table wp_social_users: Total expected rows (approximate): 1
+0008.453 (0) Table wp_social_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.01 seconds
+0008.456 (0) Table wp_social_users: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_social_users.table.gz - 0.4 KB)
+0008.657 (0) Table wp_wc_admin_note_actions: Total expected rows (approximate): 37
+0008.672 (0) Table wp_wc_admin_note_actions: Rows added in this batch (start page: 0; next: finished): 37 in 0.01 seconds
+0008.677 (0) Table wp_wc_admin_note_actions: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_admin_note_actions.table.gz - 1.9 KB)
+0008.874 (0) Table wp_wc_admin_notes: Total expected rows (approximate): 34
+0008.898 (0) Table wp_wc_admin_notes: Rows added in this batch (start page: 0; next: finished): 34 in 0.02 seconds
+0008.904 (0) Table wp_wc_admin_notes: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_admin_notes.table.gz - 4.7 KB)
+0009.024 (0) Table wp_wc_customer_lookup: Total expected rows (approximate): 7
+0009.044 (0) Table wp_wc_customer_lookup: Rows added in this batch (start page: 0; next: finished): 7 in 0.02 seconds
+0009.047 (0) Table wp_wc_customer_lookup: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_customer_lookup.table.gz - 0.8 KB)
+0009.089 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0009.116 (0) Table wp_wc_download_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.03 seconds
+0009.120 (0) Table wp_wc_download_log: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0009.173 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0009.183 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0009.185 (0) Table wp_wc_order_coupon_lookup: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_order_coupon_lookup.table.gz - 0.4 KB)
+0009.267 (0) Table wp_wc_order_product_lookup: Total expected rows (approximate): 6
+0009.293 (0) Table wp_wc_order_product_lookup: Rows added in this batch (start page: 0; next: finished): 6 in 0.02 seconds
+0009.295 (0) Table wp_wc_order_product_lookup: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_order_product_lookup.table.gz - 0.6 KB)
+0009.411 (0) Table wp_wc_order_stats: Total expected rows (approximate): 5
+0009.424 (0) Table wp_wc_order_stats: Rows added in this batch (start page: 0; next: finished): 5 in 0.01 seconds
+0009.427 (0) Table wp_wc_order_stats: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_order_stats.table.gz - 0.6 KB)
+0009.475 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0009.512 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.04 seconds
+0009.515 (0) Table wp_wc_order_tax_lookup: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_order_tax_lookup.table.gz - 0.4 KB)
+0009.548 (0) Table wp_wc_webhooks: Total expected rows (approximate): 4
+0009.630 (0) Table wp_wc_webhooks: Rows added in this batch (start page: 0; next: finished): 4 in 0.08 seconds
+0009.634 (0) Table wp_wc_webhooks: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_webhooks.table.gz - 0.8 KB)
+0009.713 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 1
+0009.769 (0) Table wp_woocommerce_api_keys: Rows added in this batch (start page: 0; next: finished): 1 in 0.04 seconds
+0009.773 (0) Table wp_woocommerce_api_keys: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_api_keys.table.gz - 0.6 KB)
+0009.822 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0009.855 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (start page: 0; next: finished): 0 in 0.03 seconds
+0009.864 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0009.992 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0010.010 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0010.015 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0010.083 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0010.136 (0) Table wp_woocommerce_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.05 seconds
+0010.140 (0) Table wp_woocommerce_log: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0010.272 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 11
+0010.299 (0) Table wp_woocommerce_order_items: Rows added in this batch (start page: 0; next: finished): 11 in 0.03 seconds
+0010.304 (0) Table wp_woocommerce_order_items: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_order_items.table.gz - 0.5 KB)
+0010.398 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0010.409 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0010.411 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0010.720 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0010.797 (0) Table wp_woocommerce_sessions: Rows added in this batch (start page: 0; next: finished): 1 in 0.08 seconds
+0010.800 (0) Table wp_woocommerce_sessions: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_sessions.table.gz - 0.9 KB)
+0011.119 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 1
+0011.176 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (start page: 0; next: finished): 1 in 0.06 seconds
+0011.292 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0011.487 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 2
+0011.535 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (start page: 0; next: finished): 2 in 0.05 seconds
+0011.537 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0011.647 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 1
+0011.696 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (start page: 0; next: finished): 1 in 0.05 seconds
+0011.700 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0011.784 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0011.804 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0011.807 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0011.984 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0011.998 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0012.001 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0012.011 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_options.table.gz (1/44): adding to final database dump
+0012.152 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_users.table.gz (2/44): adding to final database dump
+0012.154 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_usermeta.table.gz (3/44): adding to final database dump
+0012.156 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_actionscheduler_actions.table.gz (4/44): adding to final database dump
+0012.158 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_actionscheduler_claims.table.gz (5/44): adding to final database dump
+0012.160 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_actionscheduler_groups.table.gz (6/44): adding to final database dump
+0012.162 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_actionscheduler_logs.table.gz (7/44): adding to final database dump
+0012.164 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_commentmeta.table.gz (8/44): adding to final database dump
+0012.165 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_comments.table.gz (9/44): adding to final database dump
+0012.167 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_links.table.gz (10/44): adding to final database dump
+0012.169 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_postmeta.table.gz (11/44): adding to final database dump
+0012.184 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_posts.table.gz (12/44): adding to final database dump
+0012.191 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_term_relationships.table.gz (13/44): adding to final database dump
+0012.193 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_term_taxonomy.table.gz (14/44): adding to final database dump
+0012.197 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_termmeta.table.gz (15/44): adding to final database dump
+0012.199 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_terms.table.gz (16/44): adding to final database dump
+0012.202 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_category_lookup.table.gz (17/44): adding to final database dump
+0012.204 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_product_meta_lookup.table.gz (18/44): adding to final database dump
+0012.206 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_reserved_stock.table.gz (19/44): adding to final database dump
+0012.208 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_tax_rate_classes.table.gz (20/44): adding to final database dump
+0012.210 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_order_itemmeta.table.gz (21/44): adding to final database dump
+0012.214 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_payment_tokenmeta.table.gz (22/44): adding to final database dump
+0012.221 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_social_users.table.gz (23/44): adding to final database dump
+0012.226 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_admin_note_actions.table.gz (24/44): adding to final database dump
+0012.229 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_admin_notes.table.gz (25/44): adding to final database dump
+0012.234 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_customer_lookup.table.gz (26/44): adding to final database dump
+0012.238 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_download_log.table.gz (27/44): adding to final database dump
+0012.241 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_order_coupon_lookup.table.gz (28/44): adding to final database dump
+0012.243 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_order_product_lookup.table.gz (29/44): adding to final database dump
+0012.247 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_order_stats.table.gz (30/44): adding to final database dump
+0012.250 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_order_tax_lookup.table.gz (31/44): adding to final database dump
+0012.252 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_wc_webhooks.table.gz (32/44): adding to final database dump
+0012.254 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_api_keys.table.gz (33/44): adding to final database dump
+0012.256 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_attribute_taxonomies.table.gz (34/44): adding to final database dump
+0012.259 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (35/44): adding to final database dump
+0012.260 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_log.table.gz (36/44): adding to final database dump
+0012.262 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_order_items.table.gz (37/44): adding to final database dump
+0012.264 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_payment_tokens.table.gz (38/44): adding to final database dump
+0012.266 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_sessions.table.gz (39/44): adding to final database dump
+0012.268 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_shipping_zone_locations.table.gz (40/44): adding to final database dump
+0012.270 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_shipping_zone_methods.table.gz (41/44): adding to final database dump
+0012.272 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_shipping_zones.table.gz (42/44): adding to final database dump
+0012.274 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_tax_rate_locations.table.gz (43/44): adding to final database dump
+0012.280 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db-table-wp_woocommerce_tax_rates.table.gz (44/44): adding to final database dump
+0012.526 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db.gz: finished writing out complete database file (472 KB)
+0012.776 (0) Total database tables backed up: 44 (backup_2021-11-01-1119_Zaapery_d6254748c7b4-db.gz, size: 509539, sha1: 0853a7e9ef50ff678a8985570cc18c6d7d7f5c54, sha256: 41b16c9f0fe56afa57d2b4a6fa736e7b8ecbd32298b2123680221511f97b4258)
+0012.792 (0) backup_2021-11-01-1119_Zaapery_d6254748c7b4-db.gz: db: This file has not yet been successfully uploaded: will queue
+0012.793 (0) Saving backup history. Total backup size: 497.6 KB
+0012.799 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0012.802 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0012.804 (0) No remote despatch: user chose no remote backup service
+0012.805 (0) Recording as successfully uploaded: backup_2021-11-01-1119_Zaapery_d6254748c7b4-db.gz
+0012.807 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0012.808 (0) Resume backup (d6254748c7b4, 0): finish run
+0012.811 (0) Decremented the semaphore (fd) by 1
+0012.812 (0) Semaphore (fd) unlocked
+0012.813 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0012.818 (0) The backup apparently succeeded and is now complete
+0012.820 (0) No email will/can be sent - the user has not configured an email address.
+0012.822 (0) O backup aparentemente foi bem sucedido e está completo agora.

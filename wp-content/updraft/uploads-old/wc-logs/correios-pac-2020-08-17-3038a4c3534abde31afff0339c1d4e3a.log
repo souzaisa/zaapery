@@ -1,0 +1,35 @@
+08-17-2020 @ 15:35:18 - Weight and cubage of the order: Array
+(
+    [weight] => 1
+    [height] => 6
+    [width] => 11
+    [length] => 16
+)
+
+08-17-2020 @ 15:35:18 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=04510&nCdEmpresa&sDsSenha&sCepDestino=37564000&sCepOrigem=37002190&nVlAltura=6&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=1&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+08-17-2020 @ 15:35:19 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 04510
+            [Valor] => 24,30
+            [PrazoEntrega] => 8
+            [ValorSemAdicionais] => 24,30
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [obsFim] => SimpleXMLElement Object
+                (
+                )
+
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+

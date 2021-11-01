@@ -1,0 +1,346 @@
+0000.002 (0) Opened log file at time: Mon, 01 Nov 2021 14:50:14 +0000 on http://localhost/zaapery
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.7.3 PHP: 7.1.4 (apache2handler, Windows NT DESKTOP-3F8K9FO 10.0 build 19041 (Windows 10) i586) MySQL: 10.1.22-MariaDB WPLANG: pt_BR Server: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/7.1.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 79.5M | 8M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.012 (0) Free space on disk containing Updraft's temporary directory: 124743.3 MB
+0000.024 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB: 1 (schedule: daily)
+0000.099 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.182 (0) Set semaphore last lock (fd) time to 2021-11-01 14:50:15
+0000.197 (0) Semaphore lock (fd) complete
+0000.374 (0) Backup run: resumption=0, nonce=f2289c7231f1, file_nonce=f2289c7231f1 begun at=1635778214 (1s ago), job type=backup
+0000.431 (0) Scheduling a resumption (1) after 300 seconds (1635778515) in case this run gets aborted
+0000.525 (0) Checking if we have a zip executable available
+0000.530 (0) Creation of backups of directories: beginning
+0000.548 (0) No backup of plugins: excluded by user's options
+0000.573 (0) Beginning creation of dump of themes (split every: 25 MB)
+0002.212 (0) Total entities for the zip file: 158 directories, 784 files (0 skipped as non-modified), 19.6 MB
+0003.101 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 63 (63) files added so far); re-opening (prior size: 0 KB)
+0004.420 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-themes.zip.tmp: 100 files added (on-disk size: 154.7 KB)
+0006.093 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.7 MB, 70 (133) files added so far); re-opening (prior size: 154.7 KB)
+0010.121 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 47 (180) files added so far); re-opening (prior size: 2393.6 KB)
+0011.368 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-themes.zip.tmp: 200 files added (on-disk size: 2589.8 KB)
+0013.095 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 93 (273) files added so far); re-opening (prior size: 2589.8 KB)
+0014.175 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-themes.zip.tmp: 300 files added (on-disk size: 2752.6 KB)
+0016.136 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4 MB, 95 (368) files added so far); re-opening (prior size: 2752.6 KB)
+0019.297 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-themes.zip.tmp: 400 files added (on-disk size: 3530.4 KB)
+0020.117 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 44 (412) files added so far); re-opening (prior size: 3530.4 KB)
+0023.087 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 52 (464) files added so far); re-opening (prior size: 3765.4 KB)
+0023.633 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-themes.zip.tmp: 500 files added (on-disk size: 3812.4 KB)
+0026.191 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 126 (590) files added so far); re-opening (prior size: 3812.4 KB)
+0027.036 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-themes.zip.tmp: 600 files added (on-disk size: 5265.6 KB)
+0029.098 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.8 MB, 98 (688) files added so far); re-opening (prior size: 5265.6 KB)
+0030.752 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-themes.zip.tmp: 700 files added (on-disk size: 8640.1 KB)
+0032.124 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 52 (740) files added so far); re-opening (prior size: 8640.1 KB)
+0034.828 (0) Created themes zip (0) - 9114.3 KB in 34.2 s (266.6 KB/s) (sha1: 63166565337d13f829cc078f28cd253d20ce19ba, sha256: 8ab1b72ff1aa1ab8e800577513efcd27afce30a1cc98ffe7069ecd7cb2aa7fe8)
+0034.836 (0) Exclusion option setting (uploads): 
+0034.838 (0) Looking for candidates to backup in: C:\xampp\htdocs\zaapery/wp-content/uploads
+0034.839 (0) finding files: 2020: adding to list (1)
+0034.841 (0) finding files: 2021: adding to list (2)
+0034.842 (0) finding files: elementor: adding to list (3)
+0034.843 (0) finding files: pum: adding to list (4)
+0034.848 (0) finding files: wc-logs: adding to list (5)
+0034.849 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (6)
+0034.850 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (7)
+0034.851 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (8)
+0034.852 (0) finding files: woocommerce-placeholder-250x250.png: adding to list (9)
+0034.853 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (10)
+0034.854 (0) finding files: woocommerce-placeholder-500x500.png: adding to list (11)
+0034.855 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (12)
+0034.856 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (13)
+0034.857 (0) finding files: woocommerce-placeholder.png: adding to list (14)
+0034.858 (0) finding files: woocommerce_uploads: adding to list (15)
+0034.859 (0) Beginning creation of dump of uploads (split every: 25 MB)
+0035.199 (0) Total entities for the zip file: 19 directories, 140 files (0 skipped as non-modified), 7.1 MB
+0037.090 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 54 (54) files added so far); re-opening (prior size: 0 KB)
+0039.634 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-uploads.zip.tmp: 100 files added (on-disk size: 2383.1 KB)
+0040.119 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 49 (103) files added so far); re-opening (prior size: 2383.1 KB)
+0043.398 (0) Created uploads zip (0) - 7245.6 KB in 8.5 s (850.3 KB/s) (sha1: 03f4875f2929e8ff6c648004f45240196199a186, sha256: cb97594b4b210f8a7e27a7cd0ca7eef00a1dce7ab6c8b77df7d488593903e603)
+0043.412 (0) Beginning backup of other directories found in the content directory (index: 0)
+0043.413 (0) Exclusion option setting (others): 
+0043.415 (0) Looking for candidates to backup in: C:\xampp\htdocs\zaapery/wp-content
+0043.418 (0) finding files: index.php: adding to list (1)
+0043.419 (0) finding files: index.php-old: adding to list (2)
+0043.421 (0) finding files: index.php-old-old: adding to list (3)
+0043.423 (0) finding files: index.php-old-old-old: adding to list (4)
+0043.425 (0) finding files: languages: adding to list (5)
+0043.427 (0) finding files: languages-old: adding to list (6)
+0043.428 (0) finding files: languages-old-old: adding to list (7)
+0043.430 (0) finding files: languages-old-old-old: adding to list (8)
+0043.432 (0) finding files: plugins: skipping: this is the plugins directory
+0043.433 (0) finding files: plugins-old: adding to list (9)
+0043.435 (0) finding files: plugins-old-old: adding to list (10)
+0043.437 (0) finding files: plugins-old-old-old: adding to list (11)
+0043.438 (0) finding files: themes: skipping: this is the themes directory
+0043.440 (0) finding files: themes-old: adding to list (12)
+0043.442 (0) finding files: themes-old-old: adding to list (13)
+0043.444 (0) finding files: themes-old-old-old: adding to list (14)
+0043.446 (0) finding files: updraft: skipping: this is the updraft directory
+0043.447 (0) finding files: updraft.zip: adding to list (15)
+0043.449 (0) finding files: updraft.zip-old: adding to list (16)
+0043.451 (0) finding files: upgrade: adding to list (17)
+0043.453 (0) finding files: uploads: skipping: this is the uploads directory
+0043.455 (0) finding files: uploads-old: adding to list (18)
+0043.458 (0) finding files: uploads-old-old: adding to list (19)
+0043.459 (0) finding files: uploads-old-old-old: adding to list (20)
+0050.643 (0) Total entities for the zip file: 22 directories, 1446 files (0 skipped as non-modified), 104.2 MB
+0050.652 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0053.194 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 67 (68) files added so far); re-opening (prior size: 2.6 KB)
+0057.346 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 100 files added (on-disk size: 566.9 KB)
+0058.205 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 56 (124) files added so far); re-opening (prior size: 566.9 KB)
+0061.168 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 72 (196) files added so far); re-opening (prior size: 607.4 KB)
+0061.433 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 200 files added (on-disk size: 663 KB)
+0063.572 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 300 files added (on-disk size: 663 KB)
+0064.095 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 158 (354) files added so far); re-opening (prior size: 663 KB)
+0065.972 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 400 files added (on-disk size: 1256 KB)
+0067.084 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.9 MB, 91 (445) files added so far); re-opening (prior size: 1256 KB)
+0071.434 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 500 files added (on-disk size: 2668.6 KB)
+0072.096 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 88 (533) files added so far); re-opening (prior size: 2668.6 KB)
+0073.174 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 600 files added (on-disk size: 2758.6 KB)
+0074.835 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 700 files added (on-disk size: 2758.6 KB)
+0075.094 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 187 (720) files added so far); re-opening (prior size: 2758.6 KB)
+0076.776 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 800 files added (on-disk size: 3429.5 KB)
+0078.094 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.5 MB, 127 (847) files added so far); re-opening (prior size: 3429.5 KB)
+0081.078 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 900 files added (on-disk size: 4915.9 KB)
+0082.092 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 130 (977) files added so far); re-opening (prior size: 4915.9 KB)
+0082.902 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 1000 files added (on-disk size: 5164.9 KB)
+0085.113 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 117 (1094) files added so far); re-opening (prior size: 5164.9 KB)
+0085.520 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 1100 files added (on-disk size: 5270.2 KB)
+0087.933 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 1200 files added (on-disk size: 5270.2 KB)
+0088.105 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.4 MB, 115 (1209) files added so far); re-opening (prior size: 5270.2 KB)
+0090.676 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 1300 files added (on-disk size: 6711.2 KB)
+0091.697 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip.tmp: 1400 files added (on-disk size: 6711.2 KB)
+0092.096 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 226 (1435) files added so far); re-opening (prior size: 6711.2 KB)
+0093.201 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (39.7 MB, 1446 files batched, 10 (1445) added so far); re-opening (prior size: 7453.8 KB)
+0096.900 (0) A useful amount of data was added after this amount of zip processing: 4.8 s (normalised: 3 s, rate: 8435.4 KB/s)
+0096.901 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=4.8192949295044, normalised_time=3.0348239984805, max_time=96.899641990662, data points known=1, max_bytes=26214400)
+0096.904 (0) Zip size is at/near split limit (46.1 MB / 25 MB) - bumping index (from: 0)
+0097.709 (0) Created others zip (0) - 47187.7 KB in 53.4 s (883.4 KB/s) (checksums: sha1: 354b136e74e0b80f1b6023bda4f26bd687f382e6, sha256: d3bbd2377952e687c8bb907e2f5dc811bcffabcf11b1b45053f57caa95e89056)
+0097.778 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (38.5 MB, 1446 files batched, 1 (1446) added so far); re-opening (prior size: 0 KB)
+0101.553 (0) A useful amount of data was added after this amount of zip processing: 5.5 s (normalised: 3.6 s, rate: 7200.3 KB/s)
+0101.555 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=5.472354888916, normalised_time=3.5553874313896, max_time=101.55299186707, data points known=1, max_bytes=26214400)
+0101.558 (0) Zip size is at/near split limit (36.8 MB / 25 MB) - bumping index (from: 1)
+0102.350 (0) Created others zip (1) - 37725.8 KB in 3.8 s (9801.6 KB/s) (checksums: sha1: c080ffefe3475525081d78deb02dd6b9ecb8db66, sha256: 08fa317a06834cafc82ad32d524f0797f8b8aade677c7811d9d6207d6093339b)
+0102.358 (0) makezip_addfiles(UpdraftPlus_ZipArchive) apparently failed (file=backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp, type=others, size=0) - retrying with PclZip
+0102.586 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip: Zip file already exists, with 1445 files
+0102.589 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-others2.zip: Zip file already exists, with 1446 files
+0102.591 (0) Zip file already exists, but is not readable or was zero-sized; will remove: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp
+0103.530 (0) Unexpected: path (updraft.zip) fails both is_file() and is_dir()
+0103.532 (0) Unexpected: path (updraft.zip-old) fails both is_file() and is_dir()
+0103.542 (0) Total entities for the zip file: 22 directories, 1444 files (0 skipped as non-modified), 27.3 MB
+0103.564 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 100 files added (on-disk size: 0 KB)
+0103.581 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 200 files added (on-disk size: 0 KB)
+0103.598 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 300 files added (on-disk size: 0 KB)
+0103.616 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 400 files added (on-disk size: 0 KB)
+0103.638 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 500 files added (on-disk size: 0 KB)
+0103.655 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 600 files added (on-disk size: 0 KB)
+0103.672 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 700 files added (on-disk size: 0 KB)
+0103.689 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 800 files added (on-disk size: 0 KB)
+0103.704 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 900 files added (on-disk size: 0 KB)
+0103.721 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0103.738 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0103.755 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0103.771 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0103.786 (0) Zip: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0104.232 (0) Created others zip (2) - 2.4 KB in 1.9 s (1.3 KB/s) (sha1: 8f7bafffba79a8201132fc28ece4364043bfee3a, sha256: 843f57463ebebfcf025adb8e56b2cba894cf1d14097062bb8fadf7a7943b335a)
+0104.244 (0) Saving backup status to database (elements: 8)
+0104.250 (0) Beginning creation of database dump (WordPress DB)
+0104.273 (0) Table wp_options: Total expected rows (approximate): 559
+0104.490 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 555 in 0.22 seconds
+0104.492 (0) Table wp_options: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_options.table.gz - 443.3 KB)
+0104.508 (0) Table wp_users: Total expected rows (approximate): 2
+0104.544 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 2 in 0.03 seconds
+0104.546 (0) Table wp_users: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_users.table.gz - 0.7 KB)
+0104.564 (0) Table wp_usermeta: Total expected rows (approximate): 48
+0104.574 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 48 in 0.01 seconds
+0104.576 (0) Table wp_usermeta: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_usermeta.table.gz - 2.6 KB)
+0104.589 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 6
+0104.600 (0) Table wp_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 6 in 0.01 seconds
+0104.602 (0) Table wp_actionscheduler_actions: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_actionscheduler_actions.table.gz - 0.7 KB)
+0104.616 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0104.628 (0) Table wp_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0104.631 (0) Table wp_actionscheduler_claims: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_actionscheduler_claims.table.gz - 0.3 KB)
+0104.650 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 3
+0104.660 (0) Table wp_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 3 in 0.01 seconds
+0104.661 (0) Table wp_actionscheduler_groups: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0104.677 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 18
+0104.686 (0) Table wp_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 18 in 0.01 seconds
+0104.689 (0) Table wp_actionscheduler_logs: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_actionscheduler_logs.table.gz - 0.6 KB)
+0104.705 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0104.740 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.03 seconds
+0104.742 (0) Table wp_commentmeta: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0104.778 (0) Table wp_comments: Total expected rows (approximate): 9
+0104.788 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 9 in 0.01 seconds
+0104.790 (0) Table wp_comments: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_comments.table.gz - 1.1 KB)
+0104.803 (0) Table wp_links: Total expected rows (approximate): 0
+0104.812 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0104.814 (0) Table wp_links: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_links.table.gz - 0.4 KB)
+0104.826 (0) Table wp_postmeta: Total expected rows (approximate): 1130
+0104.850 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 1130 in 0.02 seconds
+0104.853 (0) Table wp_postmeta: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_postmeta.table.gz - 23.2 KB)
+0104.866 (0) Table wp_posts: Total expected rows (approximate): 97
+0104.887 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 97 in 0.02 seconds
+0104.891 (0) Table wp_posts: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_posts.table.gz - 10.1 KB)
+0104.916 (0) Table wp_term_relationships: Total expected rows (approximate): 32
+0104.930 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 32 in 0.01 seconds
+0104.933 (0) Table wp_term_relationships: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0104.960 (0) Table wp_term_taxonomy: Total expected rows (approximate): 27
+0105.117 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 27 in 0.15 seconds
+0105.119 (0) Table wp_term_taxonomy: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0105.139 (0) Table wp_termmeta: Total expected rows (approximate): 16
+0105.160 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 16 in 0.02 seconds
+0105.162 (0) Table wp_termmeta: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_termmeta.table.gz - 0.5 KB)
+0105.178 (0) Table wp_terms: Total expected rows (approximate): 27
+0105.188 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 27 in 0.01 seconds
+0105.191 (0) Table wp_terms: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_terms.table.gz - 0.7 KB)
+0105.208 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 8
+0105.217 (0) Table wp_wc_category_lookup: Rows added in this batch (start page: 0; next: finished): 8 in 0.01 seconds
+0105.219 (0) Table wp_wc_category_lookup: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_category_lookup.table.gz - 0.4 KB)
+0105.232 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 5
+0105.240 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (start page: 0; next: finished): 5 in 0.01 seconds
+0105.242 (0) Table wp_wc_product_meta_lookup: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_product_meta_lookup.table.gz - 0.6 KB)
+0105.255 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0105.262 (0) Table wp_wc_reserved_stock: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.264 (0) Table wp_wc_reserved_stock: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_reserved_stock.table.gz - 0.3 KB)
+0105.277 (0) Table wp_wc_tax_rate_classes: Total expected rows (approximate): 2
+0105.285 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (start page: 0; next: finished): 2 in 0.01 seconds
+0105.288 (0) Table wp_wc_tax_rate_classes: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_tax_rate_classes.table.gz - 0.4 KB)
+0105.302 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 82
+0105.311 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (start page: 0; next: finished): 82 in 0.01 seconds
+0105.313 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_order_itemmeta.table.gz - 1 KB)
+0105.326 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0105.335 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.337 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0105.350 (0) Table wp_social_users: Total expected rows (approximate): 1
+0105.358 (0) Table wp_social_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.01 seconds
+0105.360 (0) Table wp_social_users: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_social_users.table.gz - 0.4 KB)
+0105.372 (0) Table wp_wc_admin_note_actions: Total expected rows (approximate): 37
+0105.381 (0) Table wp_wc_admin_note_actions: Rows added in this batch (start page: 0; next: finished): 37 in 0.01 seconds
+0105.383 (0) Table wp_wc_admin_note_actions: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_admin_note_actions.table.gz - 1.9 KB)
+0105.398 (0) Table wp_wc_admin_notes: Total expected rows (approximate): 34
+0105.409 (0) Table wp_wc_admin_notes: Rows added in this batch (start page: 0; next: finished): 34 in 0.01 seconds
+0105.412 (0) Table wp_wc_admin_notes: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_admin_notes.table.gz - 4.7 KB)
+0105.431 (0) Table wp_wc_customer_lookup: Total expected rows (approximate): 2
+0105.439 (0) Table wp_wc_customer_lookup: Rows added in this batch (start page: 0; next: finished): 2 in 0.01 seconds
+0105.441 (0) Table wp_wc_customer_lookup: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_customer_lookup.table.gz - 0.6 KB)
+0105.454 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0105.461 (0) Table wp_wc_download_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.464 (0) Table wp_wc_download_log: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0105.478 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0105.486 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.488 (0) Table wp_wc_order_coupon_lookup: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_order_coupon_lookup.table.gz - 0.4 KB)
+0105.503 (0) Table wp_wc_order_product_lookup: Total expected rows (approximate): 6
+0105.513 (0) Table wp_wc_order_product_lookup: Rows added in this batch (start page: 0; next: finished): 6 in 0.01 seconds
+0105.516 (0) Table wp_wc_order_product_lookup: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_order_product_lookup.table.gz - 0.6 KB)
+0105.533 (0) Table wp_wc_order_stats: Total expected rows (approximate): 5
+0105.543 (0) Table wp_wc_order_stats: Rows added in this batch (start page: 0; next: finished): 5 in 0.01 seconds
+0105.545 (0) Table wp_wc_order_stats: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_order_stats.table.gz - 0.6 KB)
+0105.560 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0105.568 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.571 (0) Table wp_wc_order_tax_lookup: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_order_tax_lookup.table.gz - 0.4 KB)
+0105.586 (0) Table wp_wc_webhooks: Total expected rows (approximate): 4
+0105.598 (0) Table wp_wc_webhooks: Rows added in this batch (start page: 0; next: finished): 4 in 0.01 seconds
+0105.600 (0) Table wp_wc_webhooks: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_webhooks.table.gz - 0.8 KB)
+0105.616 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0105.630 (0) Table wp_woocommerce_api_keys: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.633 (0) Table wp_woocommerce_api_keys: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0105.650 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0105.661 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.663 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0105.679 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0105.688 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.691 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0105.709 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0105.720 (0) Table wp_woocommerce_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.722 (0) Table wp_woocommerce_log: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0105.738 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 11
+0105.748 (0) Table wp_woocommerce_order_items: Rows added in this batch (start page: 0; next: finished): 11 in 0.01 seconds
+0105.750 (0) Table wp_woocommerce_order_items: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_order_items.table.gz - 0.5 KB)
+0105.766 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0105.776 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.801 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0105.816 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0105.826 (0) Table wp_woocommerce_sessions: Rows added in this batch (start page: 0; next: finished): 1 in 0.01 seconds
+0105.828 (0) Table wp_woocommerce_sessions: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_sessions.table.gz - 1.1 KB)
+0105.841 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 1
+0105.851 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (start page: 0; next: finished): 1 in 0.01 seconds
+0105.853 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0105.867 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 2
+0105.876 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (start page: 0; next: finished): 2 in 0.01 seconds
+0105.878 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0105.892 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 1
+0105.900 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (start page: 0; next: finished): 1 in 0.01 seconds
+0105.902 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0105.920 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0105.929 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.931 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0105.944 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0105.953 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0105.955 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0105.963 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_options.table.gz (1/44): adding to final database dump
+0106.116 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_users.table.gz (2/44): adding to final database dump
+0106.206 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_usermeta.table.gz (3/44): adding to final database dump
+0106.208 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_actionscheduler_actions.table.gz (4/44): adding to final database dump
+0106.211 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_actionscheduler_claims.table.gz (5/44): adding to final database dump
+0106.214 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_actionscheduler_groups.table.gz (6/44): adding to final database dump
+0106.216 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_actionscheduler_logs.table.gz (7/44): adding to final database dump
+0106.218 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_commentmeta.table.gz (8/44): adding to final database dump
+0106.220 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_comments.table.gz (9/44): adding to final database dump
+0106.223 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_links.table.gz (10/44): adding to final database dump
+0106.225 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_postmeta.table.gz (11/44): adding to final database dump
+0106.237 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_posts.table.gz (12/44): adding to final database dump
+0106.241 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_term_relationships.table.gz (13/44): adding to final database dump
+0106.244 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_term_taxonomy.table.gz (14/44): adding to final database dump
+0106.247 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_termmeta.table.gz (15/44): adding to final database dump
+0106.249 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_terms.table.gz (16/44): adding to final database dump
+0106.250 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_category_lookup.table.gz (17/44): adding to final database dump
+0106.252 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_product_meta_lookup.table.gz (18/44): adding to final database dump
+0106.254 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_reserved_stock.table.gz (19/44): adding to final database dump
+0106.255 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_tax_rate_classes.table.gz (20/44): adding to final database dump
+0106.257 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_order_itemmeta.table.gz (21/44): adding to final database dump
+0106.259 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_payment_tokenmeta.table.gz (22/44): adding to final database dump
+0106.261 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_social_users.table.gz (23/44): adding to final database dump
+0106.262 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_admin_note_actions.table.gz (24/44): adding to final database dump
+0106.265 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_admin_notes.table.gz (25/44): adding to final database dump
+0106.268 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_customer_lookup.table.gz (26/44): adding to final database dump
+0106.270 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_download_log.table.gz (27/44): adding to final database dump
+0106.272 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_order_coupon_lookup.table.gz (28/44): adding to final database dump
+0106.274 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_order_product_lookup.table.gz (29/44): adding to final database dump
+0106.277 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_order_stats.table.gz (30/44): adding to final database dump
+0106.280 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_order_tax_lookup.table.gz (31/44): adding to final database dump
+0106.282 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_wc_webhooks.table.gz (32/44): adding to final database dump
+0106.284 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_api_keys.table.gz (33/44): adding to final database dump
+0106.286 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_attribute_taxonomies.table.gz (34/44): adding to final database dump
+0106.288 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (35/44): adding to final database dump
+0106.290 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_log.table.gz (36/44): adding to final database dump
+0106.292 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_order_items.table.gz (37/44): adding to final database dump
+0106.296 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_payment_tokens.table.gz (38/44): adding to final database dump
+0106.299 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_sessions.table.gz (39/44): adding to final database dump
+0106.301 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_shipping_zone_locations.table.gz (40/44): adding to final database dump
+0106.304 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_shipping_zone_methods.table.gz (41/44): adding to final database dump
+0106.306 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_shipping_zones.table.gz (42/44): adding to final database dump
+0106.309 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_tax_rate_locations.table.gz (43/44): adding to final database dump
+0106.313 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db-table-wp_woocommerce_tax_rates.table.gz (44/44): adding to final database dump
+0106.399 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db.gz: finished writing out complete database file (472 KB)
+0106.445 (0) Total database tables backed up: 44 (backup_2021-11-01-1250_Zaapery_f2289c7231f1-db.gz, size: 505222, sha1: 742eae199248f4f564389d38275d97f2e5582327, sha256: 22ada1bbdabe10a02f41fb69183dfdefea62fa5c3c3b20d525c8f8c3554889c8)
+0106.463 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0106.465 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0106.467 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip: others: This file has not yet been successfully uploaded: will queue
+0106.469 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-others2.zip: others: This file has not yet been successfully uploaded: will queue
+0106.470 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip: others: This file has not yet been successfully uploaded: will queue
+0106.472 (0) backup_2021-11-01-1250_Zaapery_f2289c7231f1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0106.473 (0) Saving backup history. Total backup size: 99.4 MB
+0106.479 (0) Requesting upload of the files that have not yet been successfully uploaded (6)
+0106.483 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0106.484 (0) No remote despatch: user chose no remote backup service
+0106.485 (0) Recording as successfully uploaded: backup_2021-11-01-1250_Zaapery_f2289c7231f1-themes.zip
+0106.488 (0) Recording as successfully uploaded: backup_2021-11-01-1250_Zaapery_f2289c7231f1-uploads.zip
+0106.491 (0) Recording as successfully uploaded: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others.zip
+0106.495 (0) Recording as successfully uploaded: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others2.zip
+0106.499 (0) Recording as successfully uploaded: backup_2021-11-01-1250_Zaapery_f2289c7231f1-others3.zip
+0106.503 (0) Recording as successfully uploaded: backup_2021-11-01-1250_Zaapery_f2289c7231f1-db.gz
+0106.507 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0106.508 (0) Resume backup (f2289c7231f1, 0): finish run
+0106.511 (0) Decremented the semaphore (fd) by 1
+0106.513 (0) Semaphore (fd) unlocked
+0106.514 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0106.519 (0) The backup apparently succeeded and is now complete
+0106.520 (0) No email will/can be sent - the user has not configured an email address.
+0106.522 (0) O backup aparentemente foi bem sucedido e está completo agora.
